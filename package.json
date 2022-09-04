@@ -2,22 +2,22 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://maxim729467.github.io/goit-js-hw-08",
+  "homepage": "https://maxim729467.github.io/goit-js-hw-8",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-8/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxim729467/goit-js-hw-08.git"
+    "url": "git+https://github.com/maxim729467/goit-js-hw-8.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maxim729467/goit-js-hw-08/issues"
+    "url": "https://github.com/maxim729467/goit-js-hw-8/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.17.1",
